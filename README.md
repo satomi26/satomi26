@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Satomi.
-- 👀 I’m interested in Data Science.
+- 👀 I’m interested in Data Analysis and Data Science.
 - 🌱 I’m currently learning data visualization, python and statistics at Code Academy Berlin.
 - 📫 How to reach me ...
 
