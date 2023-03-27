@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Satomi.
-- 👀 I’m interested in Data Analysis and Data Science.
-- 🌱 I’m currently learning data visualization, python and statistics at Code Academy Berlin.
+- 👀 I’m a student at Code Academy Berlin.
+- 🌱 I've been learning Data Analytics(Python(Pandas, Numpy, Matplotlib, Seaborn), SQL, Data Visualization with Tableau and basics of machine learning.
 - 📫 How to reach me ...
 
 <!---
